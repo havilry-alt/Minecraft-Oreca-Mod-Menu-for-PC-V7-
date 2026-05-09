@@ -1,0 +1,3 @@
+This application will open Minecraft automatically, if it crashes, please try again and the problem will be resolved. Thank you
+
+The menu can be accessed by pressing Right Shift on your keyboard (Windows) or Ctrl (Mac). Have fun, I am not responsible if your account gets banned.
